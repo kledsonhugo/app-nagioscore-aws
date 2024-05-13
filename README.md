@@ -1,5 +1,5 @@
-# Laboratório de uso do Nagios Core
+# Nagios Core
 
-O objetivo desse laboratório é configurar um ambiente para gerenciamento de dispositivos utilizando o software Nagios.
+O objetivo desse laboratório é configurar um ambiente para gerenciamento de dispositivos utilizando o software Nagios Core.
 
 ![Nagios](/images/arquitetura-nagios.png)
